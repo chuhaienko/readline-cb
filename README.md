@@ -21,7 +21,7 @@ readline.readLines(filePath, function (line, cb) {
 ```
 
 Or more options
-```javasript
+```javascript
 var readline = require('readline-cb');
 var i = 0;
 var options = {
